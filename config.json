@@ -1,0 +1,15 @@
+{
+    "title": "Test project 111",
+    "baseURL": "https:\/\/photos.testproject111.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "testproject111.com"
+    }
+}
